@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Olá! Meu nome é Amanda  
+Olá!
 Sou formada em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Integrado e atualmente curso **Ciência da Computação** na **Universidade Tecnológica Federal do Paraná (UTFPR)**.  
 Atualmente, atuo como **Programadora Backend Júnior em Java** na **Alura**.
 
@@ -47,3 +47,9 @@ Atualmente, atuo como **Programadora Backend Júnior em Java** na **Alura**.
       src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" 
   />
 </p>
+
+---
+
+### 🔗 LinkedIn
+
+[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/amanda-allis-2a40b5253/)
