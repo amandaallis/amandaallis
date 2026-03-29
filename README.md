@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Olá!
+Olá! Meu nome é Amanda, tenho 22 anos e sou apaixonada por desenvolvimento de software.  
 Sou formada em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Integrado e atualmente curso **Ciência da Computação** na **Universidade Tecnológica Federal do Paraná (UTFPR)**.  
 Atualmente, atuo como **Programadora Backend Júnior em Java** na **Alura**.
 
@@ -52,4 +52,4 @@ Atualmente, atuo como **Programadora Backend Júnior em Java** na **Alura**.
 
 ### 🔗 LinkedIn
 
-[![LinkedIn](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg)](https://www.linkedin.com/in/amanda-allis-2a40b5253/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amanda-allis-2a40b5253/)
