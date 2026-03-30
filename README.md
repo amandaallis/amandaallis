@@ -2,7 +2,7 @@
 
 **`Desenvolvedora Backend`**
 
-Olá! Meu nome é Amanda, tenho 22 anos e sou apaixonada por desenvolvimento de software.  
+Olá!
 Sou formada em **Análise e Desenvolvimento de Sistemas** pelo Centro Universitário Integrado e atualmente curso **Ciência da Computação** na **Universidade Tecnológica Federal do Paraná (UTFPR)**.  
 Atualmente, atuo como **Programadora Backend Júnior em Java** na **Alura**.
 
